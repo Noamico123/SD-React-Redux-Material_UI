@@ -1,0 +1,43 @@
+{
+	"accounts": [
+	{ 
+		"id" : 1,
+		"Account":"Samsung",
+		"status": "Always-On",
+		"Sites": ["SJC", "DAL"],
+		"Assets": ["1.1.1.1","1.1.1.2","1.1.1.3"]
+	},
+	{ 
+		"id" : 2,
+		"Account":"Ebay",
+		"status": "On-Demand",
+		"Sites": ["HKG", "TKO"],
+		"Assets": ["2.2.2.1","2.2.2.2","2.2.2.3"]
+	},
+	{ 
+		"id" : 3,
+		"Account":"Johnson&Johnson",
+		"status": "On-Demand",
+		"Sites": ["ASH", "DAL"],
+		"Assets": ["3.3.3.1","3.3.3.2","3.3.3.3","3.3.3.4"]
+	},{ 
+		"id" : 4,
+		"Account":"ZOHO",
+		"status": "Always-On",
+		"Sites": ["FRA", "LON"],
+		"Assets": ["4.4.4.4","4.4.4.3"]
+	},{ 
+		"id" : 5,
+		"Account":"Space-X",
+		"status": "Always-On",
+		"Sites": ["FRA", "LON", "DAL", "ASH"],
+		"Assets": ["4.4.4.4","4.4.4.2","4.4.4.3","4.4.4.4","4.4.4.5"]
+	},{ 
+		"id" : 6,
+		"Account":"TikTok",
+		"status": "Always-On",
+		"Sites": ["FRA", "LON", "DAL", "ASH","TKO","HKG"],
+		"Assets": ["7.7.7.7","7.7.7.2","7.7.7.3","7.7.7.4","4.7.7.5"]
+	}
+]
+}
